@@ -1,0 +1,1114 @@
+[
+  {
+    "id": "1",
+    "code": "1",
+    "name": "FP KR SPECIAL",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 120
+  },
+  {
+    "id": "2",
+    "code": "2",
+    "name": "FP KR COLOR KOTI UV",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 320
+  },
+  {
+    "id": "3",
+    "code": "3",
+    "name": "FP KR BIG 10 PCS",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 95
+  },
+  {
+    "id": "4",
+    "code": "4",
+    "name": "FP KR ASOKA",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 185
+  },
+  {
+    "id": "5",
+    "code": "5",
+    "name": "FP KR MANGAL DEAP",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 625
+  },
+  {
+    "id": "17",
+    "code": "17",
+    "name": "FP CORONATION SPECIAL",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 155
+  },
+  {
+    "id": "18",
+    "code": "18",
+    "name": "FP CORONATION COLOR PINJARO",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 300
+  },
+  {
+    "id": "19",
+    "code": "19",
+    "name": "FP CORONATION ASOKA",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 195
+  },
+  {
+    "id": "20",
+    "code": "20",
+    "name": "FP CORONATION BIG 10 PCS",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 115
+  },
+  {
+    "id": "21",
+    "code": "21",
+    "name": "FP CORONATION GIANT",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 250
+  },
+  {
+    "id": "31",
+    "code": "31",
+    "name": "FP CHUNMUN MINI PEARL",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 150
+  },
+  {
+    "id": "32",
+    "code": "32",
+    "name": "FP CHUNMUN RIM ZIM KOKO",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "33",
+    "code": "33",
+    "name": "FP CHUNMUN ASHARFI",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 300
+  },
+  {
+    "id": "34",
+    "code": "34",
+    "name": "FP CHUNMUN JASMINE",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 300
+  },
+  {
+    "id": "35",
+    "code": "35",
+    "name": "FP CHUNMUN COLOR CHANGING",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 350
+  },
+  {
+    "id": "65",
+    "code": "65",
+    "name": "FP MORI SPECIAL 10 PCS",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 180
+  },
+  {
+    "id": "66",
+    "code": "66",
+    "name": "FP MORI COLOR KOTI",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 400
+  },
+  {
+    "id": "67",
+    "code": "67",
+    "name": "FP MORI GOLD CK DELUXE",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 600
+  },
+  {
+    "id": "101",
+    "code": "101",
+    "name": "FP RAJKALA TRIO COLOR CHHOTU",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "102",
+    "code": "102",
+    "name": "FP RAJKALA TRIO COLOR POPEYE",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 250
+  },
+  {
+    "id": "115",
+    "code": "115",
+    "name": "FP STD SPECIAL",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "116",
+    "code": "116",
+    "name": "FP STANDARD GIANT",
+    "category": "Flower Pots",
+    "unit": "1 Pack",
+    "price": 380
+  },
+  {
+    "id": "6",
+    "code": "6",
+    "name": "CHAKKAR KR SPECIAL",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 85
+  },
+  {
+    "id": "7",
+    "code": "7",
+    "name": "CHAKKAR KR DELUXE",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 165
+  },
+  {
+    "id": "22",
+    "code": "22",
+    "name": "CHAKKAR CORONATION SPECIAL",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 120
+  },
+  {
+    "id": "23",
+    "code": "23",
+    "name": "CHAKKAR CORONATION ASOKA",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 90
+  },
+  {
+    "id": "24",
+    "code": "24",
+    "name": "CHAKKAR CORONATION DAZZLING WHEEL",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 225
+  },
+  {
+    "id": "63",
+    "code": "63",
+    "name": "CHAKKAR MORI DELUXE 10 PCS",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 270
+  },
+  {
+    "id": "64",
+    "code": "64",
+    "name": "CHAKKAR MORI WIRE CHAKKAR ASOKA",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 250
+  },
+  {
+    "id": "114",
+    "code": "114",
+    "name": "CHAKKAR STD DELUXE",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "117",
+    "code": "117",
+    "name": "CHAKKAR MERCURY MUSICAL WHEEL",
+    "category": "Chakkar",
+    "unit": "1 Pack",
+    "price": 150
+  },
+  {
+    "id": "8",
+    "code": "8",
+    "name": "12 SHOTS KR COLOR WITH SOUND",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "9",
+    "code": "9",
+    "name": "12 SHOTS SOLA CRACKLING RED AND GREEN",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 250
+  },
+  {
+    "id": "10",
+    "code": "10",
+    "name": "30 SHOTS KR SUNDAY SPECIAL",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 650
+  },
+  {
+    "id": "11",
+    "code": "11",
+    "name": "60 SHOTS KR LD",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 1100
+  },
+  {
+    "id": "12",
+    "code": "12",
+    "name": "100 SHOTS KR FREEDOM",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 2000
+  },
+  {
+    "id": "13",
+    "code": "13",
+    "name": "120 SHOTS KR N",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 2200
+  },
+  {
+    "id": "14",
+    "code": "14",
+    "name": "240 SHOTS KR",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 4500
+  },
+  {
+    "id": "15",
+    "code": "15",
+    "name": "602 SHOTS KR",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 10500
+  },
+  {
+    "id": "58",
+    "code": "58",
+    "name": "50 SHOTS MORI MILAN",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 1700
+  },
+  {
+    "id": "59",
+    "code": "59",
+    "name": "60 SHOTS MORI",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 1500
+  },
+  {
+    "id": "60",
+    "code": "60",
+    "name": "100 SHOTS MORI SHAGUN",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 3400
+  },
+  {
+    "id": "61",
+    "code": "61",
+    "name": "120 SHOTS MORI",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 3200
+  },
+  {
+    "id": "62",
+    "code": "62",
+    "name": "240 SHOTS MORI",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 5800
+  },
+  {
+    "id": "110",
+    "code": "110",
+    "name": "SHOTS VANITHA BOOMERANG 18",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 900
+  },
+  {
+    "id": "111",
+    "code": "111",
+    "name": "SHOTS VANITHA BOOMERANG 50",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 2100
+  },
+  {
+    "id": "a1",
+    "code": "A1",
+    "name": "SHOTS KR 3 INCH 21 CENTURY 30 PCS",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 8800
+  },
+  {
+    "id": "a3",
+    "code": "A3",
+    "name": "15 SHOTS ROYAL TIGER",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 450
+  },
+  {
+    "id": "b1",
+    "code": "B1",
+    "name": "25 SHOTS SONY LION KING",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 600
+  },
+  {
+    "id": "b2",
+    "code": "B2",
+    "name": "25 SHOTS SONY TROY",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 600
+  },
+  {
+    "id": "b3",
+    "code": "B3",
+    "name": "25 SHOTS SONY APOCALYTO",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 600
+  },
+  {
+    "id": "b4",
+    "code": "B4",
+    "name": "50 SHOTS SONY KING CROWN MULTI CRACKLING",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 1200
+  },
+  {
+    "id": "b5",
+    "code": "B5",
+    "name": "50 SHOTS SONY GLADIATOR MULTI CRACKLING",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 1200
+  },
+  {
+    "id": "b6",
+    "code": "B6",
+    "name": "10 SHOTS SONY LASER TRACK TAIL CRACKLING",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 400
+  },
+  {
+    "id": "c5",
+    "code": "C5",
+    "name": "12 SHOTS MORI HONEYMOON CRACKLING RAIDER",
+    "category": "Shots",
+    "unit": "1 Pack",
+    "price": 300
+  },
+  {
+    "id": "16",
+    "code": "16",
+    "name": "TWINKLING KR 1 POINT 5 INCH",
+    "category": "Twinkling Star",
+    "unit": "1 Pack",
+    "price": 50
+  },
+  {
+    "id": "113",
+    "code": "113",
+    "name": "TWINKLING BOOMBERG 4 INCH",
+    "category": "Twinkling Star",
+    "unit": "1 Pack",
+    "price": 90
+  },
+  {
+    "id": "25",
+    "code": "25",
+    "name": "FANCY CORONATION GOLDEN SIREN",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "26",
+    "code": "26",
+    "name": "FANCY CORONATION PACHAVTAR",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "27",
+    "code": "27",
+    "name": "FANCY CORONATION MIYA BIBI",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 120
+  },
+  {
+    "id": "28",
+    "code": "28",
+    "name": "FANCY CORONATION 7 SHOTS",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 300
+  },
+  {
+    "id": "29",
+    "code": "29",
+    "name": "FANCY CORONATION CHITPUT",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 90
+  },
+  {
+    "id": "30",
+    "code": "30",
+    "name": "FANCY CORONATION 10 KA DUM",
+    "category": "Fancy",
+    "unit": "Not specified",
+    "price": 415
+  },
+  {
+    "id": "47",
+    "code": "47",
+    "name": "FANCY PKS KITKAT",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 30
+  },
+  {
+    "id": "70",
+    "code": "70",
+    "name": "FANCY VANITHA FUN RUN",
+    "category": "Fancy",
+    "unit": "Not specified",
+    "price": 160
+  },
+  {
+    "id": "71",
+    "code": "71",
+    "name": "FANCY VANITHA LAZER SHOW",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 270
+  },
+  {
+    "id": "72",
+    "code": "72",
+    "name": "FANCY VANITHA MIRACLE",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 290
+  },
+  {
+    "id": "73",
+    "code": "73",
+    "name": "FANCY VANITHA RISING EFFECT",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 1000
+  },
+  {
+    "id": "74",
+    "code": "74",
+    "name": "FANCY VANITHA FLYERS DRONE",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 400
+  },
+  {
+    "id": "75",
+    "code": "75",
+    "name": "FANCY VANITHA CRACKLING SPIKE",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 270
+  },
+  {
+    "id": "76",
+    "code": "76",
+    "name": "FANCY VANITHA GROUND SPINNER C C B",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "77",
+    "code": "77",
+    "name": "FANCY VANITHA GODS AND KINGS FOUNTAIN",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 290
+  },
+  {
+    "id": "78",
+    "code": "78",
+    "name": "FANCY VANITHA CATERPILLAR FOUNTAIN",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 280
+  },
+  {
+    "id": "79",
+    "code": "79",
+    "name": "FANCY VANITHA GOLDEN DUCK FOUNTAIN",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 900
+  },
+  {
+    "id": "80",
+    "code": "80",
+    "name": "FANCY VANITHA NEW PRODUCT TREE 3",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 1250
+  },
+  {
+    "id": "81",
+    "code": "81",
+    "name": "FANCY VANITHA LIGHTING LOTUS",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 1250
+  },
+  {
+    "id": "82",
+    "code": "82",
+    "name": "FANCY VANITHA LOTTO V SERIES",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 290
+  },
+  {
+    "id": "83",
+    "code": "83",
+    "name": "FANCY VANITHA BUBBLE FOUNTAIN",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 290
+  },
+  {
+    "id": "84",
+    "code": "84",
+    "name": "FANCY VANITHA CRACKLING CHITPHUT",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 180
+  },
+  {
+    "id": "85",
+    "code": "85",
+    "name": "FANCY VANITHA CRACKLING HAI HAI",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 480
+  },
+  {
+    "id": "93",
+    "code": "93",
+    "name": "FANCY RAJKALA GOOGLY MINI COLOR CRACKLING FOUNTAIN",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 180
+  },
+  {
+    "id": "94",
+    "code": "94",
+    "name": "FANCY RAJKALA BELLY DANCE MIX PEACOCK SERIES",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 190
+  },
+  {
+    "id": "95",
+    "code": "95",
+    "name": "FANCY RAJKALA DHANDIYA PEACOCK MIX",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 470
+  },
+  {
+    "id": "96",
+    "code": "96",
+    "name": "FANCY RAJKALA STAR MOON GOLDEN FLY SKY SHOTS CRACK",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 190
+  },
+  {
+    "id": "97",
+    "code": "97",
+    "name": "FANCY RAJKALA TWIN NIGHT GOLD SILVER FORM MIX",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 230
+  },
+  {
+    "id": "98",
+    "code": "98",
+    "name": "FANCY RAJKALA FRUIT MIX FOUNTAIN",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 140
+  },
+  {
+    "id": "99",
+    "code": "99",
+    "name": "FANCY RAJKALA RAIN TIMY DOLU JUBBLY DOUBLE ATTRACT",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 250
+  },
+  {
+    "id": "107",
+    "code": "107",
+    "name": "FANCY ASOK JOLLY BOBBY MOCKTAIL",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 600
+  },
+  {
+    "id": "a6",
+    "code": "A6",
+    "name": "THROW WONDER 40 BOXES",
+    "category": "Fancy",
+    "unit": "Not specified",
+    "price": 100
+  },
+  {
+    "id": "c1",
+    "code": "C1",
+    "name": "FANCY RUDRA HELICOPTER",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 150
+  },
+  {
+    "id": "c6",
+    "code": "C6",
+    "name": "FANCY MORI MOJITO PCS",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 500
+  },
+  {
+    "id": "c7",
+    "code": "C7",
+    "name": "FANCY MORI PENTA PLUS 5 PCS",
+    "category": "Fancy",
+    "unit": "1 Pack",
+    "price": 230
+  },
+  {
+    "id": "36",
+    "code": "36",
+    "name": "1000 WALA RUDRA 600 SHELLS",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 400
+  },
+  {
+    "id": "37",
+    "code": "37",
+    "name": "2000 WALA RUDRA 1200 COUNTING",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 800
+  },
+  {
+    "id": "38",
+    "code": "38",
+    "name": "5000 WALA RUDRA 3000 COUNTING",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 2000
+  },
+  {
+    "id": "45",
+    "code": "45",
+    "name": "BIJLI BOOMBERG 50 PCS",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 20
+  },
+  {
+    "id": "46",
+    "code": "46",
+    "name": "BIJLI BOOMBERG 100 PCS",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 40
+  },
+  {
+    "id": "90",
+    "code": "90",
+    "name": "PATLA PRAVEEN 28 DELUXE",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 80
+  },
+  {
+    "id": "91",
+    "code": "91",
+    "name": "PATLA PRAVEEN 24 DELUXE",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 70
+  },
+  {
+    "id": "92",
+    "code": "92",
+    "name": "28 GOA SELVA",
+    "category": "Crackers",
+    "unit": "1 Box",
+    "price": 950
+  },
+  {
+    "id": "108",
+    "code": "108",
+    "name": "CRACKERS CORONATION 2 SOUND",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 50
+  },
+  {
+    "id": "109",
+    "code": "109",
+    "name": "4 INCH BOOMBERG SPIDERMAN",
+    "category": "Crackers",
+    "unit": "1 Pack",
+    "price": 20
+  },
+  {
+    "id": "39",
+    "code": "39",
+    "name": "ROCKETS KR BOMB",
+    "category": "Rockets",
+    "unit": "1 Pack",
+    "price": 80
+  },
+  {
+    "id": "40",
+    "code": "40",
+    "name": "ROCKETS KR LUNIK EXPRESS",
+    "category": "Rockets",
+    "unit": "1 Pack",
+    "price": 170
+  },
+  {
+    "id": "41",
+    "code": "41",
+    "name": "ROCKETS KR 3 SOUND",
+    "category": "Rockets",
+    "unit": "1 Pack",
+    "price": 180
+  },
+  {
+    "id": "42",
+    "code": "42",
+    "name": "ROCKETS KR WHISTLING",
+    "category": "Rockets",
+    "unit": "1 Pack",
+    "price": 250
+  },
+  {
+    "id": "43",
+    "code": "43",
+    "name": "ROCKETS CORONATION TOPAZ MULTI COLOR",
+    "category": "Rockets",
+    "unit": "1 Pack",
+    "price": 120
+  },
+  {
+    "id": "44",
+    "code": "44",
+    "name": "ROCKETS CORONATION 2 SOUND",
+    "category": "Rockets",
+    "unit": "1 Pack",
+    "price": 220
+  },
+  {
+    "id": "48",
+    "code": "48",
+    "name": "3 PCS KR 2 POINT 75 INCH",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 350
+  },
+  {
+    "id": "49",
+    "code": "49",
+    "name": "3 INCH KR FANCY",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 600
+  },
+  {
+    "id": "50",
+    "code": "50",
+    "name": "2 PCS KR 4 INCH",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 900
+  },
+  {
+    "id": "51",
+    "code": "51",
+    "name": "3 PCS CORONATION LOVE SERIES",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 500
+  },
+  {
+    "id": "57",
+    "code": "57",
+    "name": "2 PCS RAJUKANNA SUNDAY MIX 1 POINT 75 INCH",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 180
+  },
+  {
+    "id": "68",
+    "code": "68",
+    "name": "3 PCS MORI SAHNAI 2 POINT 5 INCH",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 450
+  },
+  {
+    "id": "69",
+    "code": "69",
+    "name": "3 PCS MORI 4 IN 1",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 500
+  },
+  {
+    "id": "88",
+    "code": "88",
+    "name": "2 PCS VANITHA GREEN RED LEAF IQ SKY GOLDEN KING",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 1700
+  },
+  {
+    "id": "89",
+    "code": "89",
+    "name": "1 PCS VANITHA SKY",
+    "category": "Aatasbaji",
+    "unit": "1 Pack",
+    "price": 700
+  },
+  {
+    "id": "52",
+    "code": "52",
+    "name": "BOMB 5 PLY AYYAN JOSH GREEN",
+    "category": "Bomb",
+    "unit": "1 Pack",
+    "price": 160
+  },
+  {
+    "id": "53",
+    "code": "53",
+    "name": "BOMB 5 PLY NAZZI GREEN",
+    "category": "Bomb",
+    "unit": "1 Pack",
+    "price": 220
+  },
+  {
+    "id": "55",
+    "code": "55",
+    "name": "BOMB BOOMBERG MARSHAL KING BOMB 3 PLY",
+    "category": "Bomb",
+    "unit": "1 Pack",
+    "price": 100
+  },
+  {
+    "id": "56",
+    "code": "56",
+    "name": "BOMB KR CLASSIC",
+    "category": "Bomb",
+    "unit": "1 Pack",
+    "price": 150
+  },
+  {
+    "id": "112",
+    "code": "112",
+    "name": "BOMB MIRCHI MARSHAL",
+    "category": "Bomb",
+    "unit": "1 Pack",
+    "price": 150
+  },
+  {
+    "id": "a2",
+    "code": "A2",
+    "name": "BOMB NK 10 PCS",
+    "category": "Bomb",
+    "unit": "1 Pack",
+    "price": 130
+  },
+  {
+    "id": "54",
+    "code": "54",
+    "name": "BIDI BOMB ANDHI TUFAAN LEOPARD KING",
+    "category": "Pop Pop",
+    "unit": "1 Box",
+    "price": 150
+  },
+  {
+    "id": "118",
+    "code": "118",
+    "name": "1200 WALA POP B",
+    "category": "Pop Pop",
+    "unit": "1 Box (Net Rate)",
+    "price": 250
+  },
+  {
+    "id": "119",
+    "code": "119",
+    "name": "360 WALA POP",
+    "category": "Pop Pop",
+    "unit": "1 Box (Net Rate)",
+    "price": 140
+  },
+  {
+    "id": "86",
+    "code": "86",
+    "name": "PENCIL VANITHA TOP GUN",
+    "category": "Pencil",
+    "unit": "1 Pack",
+    "price": 450
+  },
+  {
+    "id": "87",
+    "code": "87",
+    "name": "PENCIL VANITHA NEW PRDUCT BO BO STICK",
+    "category": "Pencil",
+    "unit": "1 Pack",
+    "price": 600
+  },
+  {
+    "id": "100",
+    "code": "100",
+    "name": "PENCIL RAJKALA MAGIC FIRE WATER HI LIGHT CRACKLING",
+    "category": "Pencil",
+    "unit": "1 Pack",
+    "price": 190
+  },
+  {
+    "id": "103",
+    "code": "103",
+    "name": "SPARKLERS ROJAPOO 7 CM E",
+    "category": "Sparklers",
+    "unit": "10 Pack",
+    "price": 100
+  },
+  {
+    "id": "104",
+    "code": "104",
+    "name": "SPARKLERS ROJAPOO 10 CM E",
+    "category": "Sparklers",
+    "unit": "5 Pack",
+    "price": 100
+  },
+  {
+    "id": "105",
+    "code": "105",
+    "name": "SPARKLERS ROJAPOO 15 CM E",
+    "category": "Sparklers",
+    "unit": "2 Pack",
+    "price": 80
+  },
+  {
+    "id": "106",
+    "code": "106",
+    "name": "SPARKLERS MARUTHI 50 CM E",
+    "category": "Sparklers",
+    "unit": "Not specified",
+    "price": 230
+  },
+  {
+    "id": "120",
+    "code": "120",
+    "name": "SPARKLERS MARUTHI 30 CM E",
+    "category": "Sparklers",
+    "unit": "2 Pack",
+    "price": 100
+  },
+  {
+    "id": "a4",
+    "code": "A4",
+    "name": "SPARKLERS AZAD 15 CM GREEN",
+    "category": "Sparklers",
+    "unit": "5 Pack",
+    "price": 250
+  },
+  {
+    "id": "a5",
+    "code": "A5",
+    "name": "SPARKLERS AZAD 15 CM RED",
+    "category": "Sparklers",
+    "unit": "5 Pack",
+    "price": 250
+  },
+  {
+    "id": "c2",
+    "code": "C2",
+    "name": "MACHIS RAMESH CLASSIC 5 IN 1",
+    "category": "Sparklers",
+    "unit": "1 Pack",
+    "price": 150
+  },
+  {
+    "id": "c3",
+    "code": "C3",
+    "name": "MACHIS RAMESH ROBIN ATLAS MACHIS 10 IN 1 COLOR",
+    "category": "Sparklers",
+    "unit": "1 Pack",
+    "price": 200
+  },
+  {
+    "id": "c4",
+    "code": "C4",
+    "name": "MACHIS RAMESH SUPER DLX 10 IN 1",
+    "category": "Sparklers",
+    "unit": "1 Pack",
+    "price": 120
+  }
+]
